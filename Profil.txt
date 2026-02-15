@@ -1,0 +1,5 @@
+Profil : Aspirant Analyste SOC | Certifié Google Cybersecurity
+
+Passionné par la résolution de défis complexes et la défense des systèmes, je réalise aujourd'hui ma reconversion vers la cybersécurité. Mon parcours de gestionnaire technique dans l'événementiel m'a permis de développer une grande résistance au stress et une rigueur opérationnelle.
+
+Ma transition vers l'informatique a débuté par le développement et l'hébergement du site chateaudemoliens.fr (du code natif sur VS Code vers l'intégration Wix), révélant mon goût pour l'architecture web et la résolution de problèmes. Actuellement en préparation des certifications Google et CompTIA, je maîtrise l'anglais (C1) et possède un esprit d'analyse affûté pour l'investigation numérique. Mon objectif : mettre ma ténacité et ma soif d'apprentissage constant au service de la surveillance et de la protection de vos infrastructures critiques.
